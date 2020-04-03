@@ -1,0 +1,14 @@
+{
+    "name": "server",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "fs-extra": "^8.1.0",
+        "multipart": "^0.1.5",
+        "multiparty": "^4.2.1"
+    }
+}
